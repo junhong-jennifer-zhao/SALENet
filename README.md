@@ -20,4 +20,5 @@ cd Env_Gen
 
 python env_gen_main.py
 
-The model can be downloaded here 
+The model can be downloaded here https://drive.google.com/drive/folders/1OyzkgH3Kn9fgdtO8b7YyO4NEOknbP_Us?usp=drive_link
+
